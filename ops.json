@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "51a20a8b-ab09-3689-be73-741e5c251af0",
+    "name": "Artellu",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2c8bdc4a-ee71-3db8-801e-34da30ab9fdc",
+    "name": "guagua",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "71031fb0-9bdd-330c-ac7a-0fe0ff6cb5b4",
+    "name": "Black___cat",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a20bb4bc-02dd-38da-95ad-168ddae69126",
+    "name": "starburst",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
