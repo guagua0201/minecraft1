@@ -1,0 +1,14 @@
+Uxmal;-1117/82/713;agriculture;mayan;
+Magome;-700/72/40;seiji;japanese;
+Iyiniwok;-780/66/-690;religiousvillage;inuits;
+Iwate;-1261/75/-1225;seiji;japanese;
+Asahikawa;-1681/73/-1839;seiji;japanese;
+Périgny-le-fort;-1930/74/-1266;militaire;norman;
+Tour-les-mines;-1434/64/-611;artisans;norman;
+Saga;-907/77/1278;nogyo;japanese;
+Iyot;-70/66/242;communityvillage;inuits;
+Iyot-inikitchuq;33/67/64;community_farminghamlet;inuits;
+Iyot-inikitchuq;167/64/208;community_religioushamlet;inuits;
+Chocola;-1488/75/2050;agriculture;mayan;
+Putot-le-fort;-1303/71/2699;militaire;norman;
+Clinchamps-la-fôret;-826/77/3068;militaire;norman;

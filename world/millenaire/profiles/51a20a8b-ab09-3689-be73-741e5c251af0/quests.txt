@@ -1,0 +1,1 @@
+quest:sadhu_first;step:0;startTime:1932000;currentStepStartTime:1932000;villager:startvillager,2391935780541127589,-1146/82/1689

@@ -1,0 +1,17 @@
+player_name=starburst
+donation_mode=false
+culture_reputation=japanese,254
+culture_reputation=byzantines,128
+culture_language=japanese,531
+culture_language=byzantines,177
+village_reputations=-399/69/166,1332
+village_reputations=-700/72/40,2561
+village_diplomacy=33/67/64,5
+village_diplomacy=-1488/75/2050,5
+village_diplomacy=-1261/75/-1225,5
+village_diplomacy=167/64/208,5
+village_diplomacy=-1930/74/-1266,5
+village_diplomacy=-70/66/242,5
+village_diplomacy=-1117/82/713,5
+village_diplomacy=-1434/64/-611,5
+village_diplomacy=-700/72/40,5

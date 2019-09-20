@@ -1,0 +1,14 @@
+player_name=Artellu
+donation_mode=false
+culture_reputation=japanese,35
+culture_reputation=byzantines,44
+culture_language=japanese,147
+culture_language=byzantines,50
+village_reputations=-399/69/166,444
+village_reputations=-700/72/40,336
+village_diplomacy=33/67/64,5
+village_diplomacy=167/64/208,5
+village_diplomacy=-70/66/242,5
+village_diplomacy=-1117/82/713,5
+village_diplomacy=-1434/64/-611,5
+village_diplomacy=-700/72/40,5

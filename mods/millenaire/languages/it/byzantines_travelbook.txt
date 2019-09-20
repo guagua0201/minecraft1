@@ -1,0 +1,5 @@
+
+travelbook.culture.desc=I Bizantini si definiscono veri Romani e sono molto fieri della loro architettura, della disciplina militare e delle icone che fabbricano per venerare i Santi. Dicono che sono fin troppo fieri dei loro risultati.
+travelbook.villager.armysmith_byzantine.desc=Il fabbro costruisce potenti armi per il villaggio
+travelbook.villager.farmiller_wife_byzantine.desc=Lei produce e commercializza l'originale pane Imperiale
+travelbook.villager.lumberman_byzantine.desc=Il taglialegna abbatte gli alberi per fare il prezioso legno Imperiale

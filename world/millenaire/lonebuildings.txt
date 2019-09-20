@@ -1,0 +1,11 @@
+Apomonomeno Boske Probaton;-399/69/166;lonesheepfarm;byzantines;
+K'as Maya;-796/69/628;mayanbandithome;mayan;
+Ah Waay Su'uk;-1189/76/1079;lonemayanshaman;mayan;
+Iglu;-597/65/-424;loneiglu;inuits;
+Inuksuit;-985/85/-922;inuksuit;inuits;
+Unatannik tupiq;-1481/64/-1477;banditshack;inuits;
+Inuksuit;-1193/75/-346;inuksuit;inuits;
+Irkraumalerutiksak Tupiq;-1389/73/227;loneartisan;inuits;
+Sadhu ke Peer;-1146/82/1689;sadhutree;indian;
+Inuksuit;-1385/87/2342;inuksuit;inuits;
+Asiguk Tupiq;-885/83/2696;lonedislogcabin2;inuits;

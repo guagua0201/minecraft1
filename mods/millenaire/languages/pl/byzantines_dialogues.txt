@@ -1,0 +1,20 @@
+
+
+newchat;key:sun,tag:notraining,weigth:18
+v1;0;Agapo ilióloustes méres! / Uwielbiam słoneczne dni!
+v2;30;Poios den échei? / A kto ich nie lubi?
+
+newchat;key:sunzombie,tag:notraining,weigth:2
+v1;0;Agapo ilióloustes méres! / Uwielbiam słoneczne dni!
+v2;30;Poios den échei? / A kto ich nie lubi?
+v1;60;Den to káno. / Ja ich nie lubię.
+v2;120;Giatí óchi? / Dlaczego?
+v1;150;O ílios kaíei! Misó to exoterikó! / Słońce parzy! Nienawidzę przebywać na zewnątrz!
+v2;180;Eísai san zómpi! / Zachowujesz się jak zombie!
+v1;210;Ísos eímai ... / Może nim jestem...
+
+newchat;key:goodharvest1,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-patriarch_byzantine,building:farmbyzantine,building:vineyardbyzantine,notbuilding:tavernbyzantine,weigth:24
+v1;0;To sitári kai ta stafýlia mas afxánontai polý fétos. / Nasza pszenica oraz winogron rosną nadzwyczaj dobrze w tym roku.
+v2;30;Nai, oi agrótes anaféroun rekór rekór kai dokimásate to krasí? / Tak, nasi farmerzy zgłaszają rekordy w ilości plonów. Czy próbowałeś już naszego wina?
+v1;60;Den échoume tavérna gia na kánoume krasí ... / Um, przecież nie mamy żadnej winiarni aby je wytworzyć...
+v2;120;O ..., tóte ti épaiza chthes ?!/ Oh..., w takim razie co ja wczoraj piłem?

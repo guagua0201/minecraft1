@@ -1,0 +1,43 @@
+//; 
+auto_convert_profiles=false
+
+//; 
+generate_travel_book_export=false
+
+//; 
+display_start=true
+
+//; 
+travel_book_learning=true
+
+//; 
+generate_help_data=false
+
+//; 
+display_names=true
+
+//; 
+villagers_sentence_in_chat_distance_client=0
+
+//; 
+villagers_sentence_in_chat_distance_sp=6
+
+//; 
+bonus_code=
+
+//; 
+villagers_names_distance=12
+
+//; 
+language_learning=true
+
+//Unique random identifier to count unique players if statistics are enabled
+random_uid=495455519366257664
+
+//Advancement completed for anonymous statistics
+advancements_creative=firstcontact,explorer,mp_weapon
+
+//Advancement completed for anonymous statistics
+advancements_survival=firstcontact,cresus,thequest,maitreapenser,explorer,marcopolo,selfdefense,darkside,friendindeed,rep_inuits
+
+validation=346191108
